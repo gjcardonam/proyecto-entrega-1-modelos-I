@@ -14,4 +14,4 @@ Este proyecto fue desarrollado por los siguientes estudiantes del programa de **
 
 **Ingeniería de Sistemas**  
 Universidad de Antioquia  
-Modalidad: Virtual
+Modalidad: Virtual y presencial
