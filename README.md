@@ -16,5 +16,6 @@ Este proyecto fue desarrollado por los siguientes estudiantes del programa de **
 Universidad de Antioquia  
 Modalidad: Virtual y presencial
 
-**Link Vídeo de la segunda entrega**
+## Link Vídeo de la segunda entrega
+
 https://youtu.be/pvmgFANi414
