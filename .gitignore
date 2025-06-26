@@ -1,0 +1,27 @@
+# Ignorar entornos virtuales
+venv/
+.venv/
+
+# Ignorar directorios de CatBoost u otros temporales
+catboost_info/
+
+# Ignorar archivos CSV
+*.csv
+
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar logs y cachés
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Asegurar que estos sí se incluyan
+!*.ipynb
+!README.md
